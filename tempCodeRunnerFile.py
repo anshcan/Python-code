@@ -1,0 +1,2 @@
+time.locatime()
+# print(s)
